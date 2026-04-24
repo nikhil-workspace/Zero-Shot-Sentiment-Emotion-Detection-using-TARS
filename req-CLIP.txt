@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+ftfy
+regex
+tqdm
+Pillow
+scikit-learn
+git+https://github.com/openai/CLIP.git
+streamlit
+open_clip_torch
+emoji
